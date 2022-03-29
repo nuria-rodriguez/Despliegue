@@ -15,7 +15,7 @@ Por consola se le visualizará cada resultado.
 ## Listado del contenido del repositorio:
  * doc Contiene el index.html y más archivos que ha generado javaDoc
  * src Se encuentra una carpeta EjerProducto que contiene las 4 clases de la aplicación con la extensión .java
- * bin Se encuentran las clases de la aplicación
+ * bin Se encuentran los archivos de tipo class.
  
 ## Finalidad del repositorio:
 Para guardar mi trabajo en la nube y que quede constancia de ello para en el futuro ver la progresión.
