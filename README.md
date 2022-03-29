@@ -19,3 +19,9 @@ Por consola se le visualizará cada resultado.
  
 ## Finalidad del repositorio:
 Para guardar mi trabajo en la nube y que quede constancia de ello para en el futuro ver la progresión.
+
+![super](https://user-images.githubusercontent.com/98884358/160673851-996eea27-83de-4faf-a58c-2d3066628f81.jpg)
+
+link a un supermercado: 
+
+ https://www.mercadona.es/
